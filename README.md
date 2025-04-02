@@ -1,4 +1,4 @@
-# Hi, I'm Dmitry 👋  
+# Hi👋  
 
 **💻 Software Engineer**  
 **🎓 B.Sc. in Software Development (Russian Technological University)**  
