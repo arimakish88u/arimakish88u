@@ -1,15 +1,7 @@
+My name is Dmitry Romanenko. I'm a senior undergraduate and incoming graduate student at Russian Technological University in Russia.
 
-Programming Languages:
-    • Java, Kotlin, Python
-Databases:
-    • MongoDB, PostgreSQL
-DevOps & Tools:
-    • Docker, Git, Bash, Gradle, Linux(Ubuntu)
-Other Skills:
-    • API Development, Microservices, Cloud Technologies
-Languages:
-    • Russian: Native
-    • English: C1
+-✏️ Java, Kotlin, Python
+-🛠 Docker, Git, Bash, Gradle, Linux(Ubuntu)
 
 <!---
 arimakish88u/arimakish88u is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
