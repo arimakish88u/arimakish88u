@@ -1,4 +1,4 @@
-# Hi👋  
+# Hi there👋  
 
 **💻 Software Engineer**  
 **🎓 B.Sc. in Software Development (Russian Technological University)**  
