@@ -7,7 +7,7 @@
 🔹 **Languages:** 🇷🇺 Russian (Native), 🇺🇸 English (C1)  
 🔹 **Interests:** Backend Development, Cloud Computing, DevOps  
 
-📫 **Contact:** [Email](mailto:dmromanenko@outlook.com.com)
+📫 **Contact:** [Email](mailto:dmromanenko@outlook.com)
 
 <!---
 arimakish88u/arimakish88u is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
