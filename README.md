@@ -3,9 +3,9 @@
 **💻 Software Engineer**  
 **🎓 B.Sc. in Software Development (Russian Technological University)**  
 
-🔹 **Tech Stack:** Java, Python, MongoDB, Docker, Git, Bash, Linux  
+🔹 **Tech Stack:** Python, PostgreSQL, Docker, Git, Bash, Linux  
 🔹 **Languages:** 🇷🇺 Russian (Native), 🇺🇸 English (C1)  
-🔹 **Interests:** Backend Development, Cloud Computing, DevOps  
+🔹 **Interests:** Web Programming, Backend Development
 
 📫 **Contact:** [Email](mailto:dmromanenko@outlook.com)
 
