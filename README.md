@@ -1,9 +1,9 @@
-# Hi there👋  
+#👋  
 
 **💻 Software Engineer**  
 **🎓 B.Sc. in Software Development (Russian Technological University)**  
 
-🔹 **Tech Stack:** Python, PostgreSQL, Docker, Git, Bash, Linux  
+🔹 **Tech Stack:** HTML, CSS, JS, React, Python, PostgreSQL, MongoDB, Docker, Git, Linux  
 🔹 **Languages:** 🇷🇺 Russian (Native), 🇺🇸 English (B2)  
 🔹 **Interests:** Web Programming, Backend Development
 
