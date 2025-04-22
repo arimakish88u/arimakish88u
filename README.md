@@ -2,7 +2,7 @@
 
 **💻 Software Engineer**  
 
-🔹 **Tech Stack:** HTML, CSS, JS, React, Python, PostgreSQL, MongoDB, Docker, Git, Linux  
+🔹 **Tech Stack:** HTML, CSS, JS, React, Python, MongoDB, Docker, Git, Linux  
 🔹 **Languages:** 🇷🇺 Russian (Native), 🇺🇸 English (B2)  
 🔹 **Interests:** Web Programming, Backend Development
 
