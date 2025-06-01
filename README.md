@@ -3,7 +3,7 @@
 **💻 Software Engineer**  
 
 🔹 **Tech Stack:** HTML, CSS, Python, PostgreSQL, Docker, Git, Linux  
-🔹 **Languages:** 🇷🇺 Russian (Native), 🇺🇸 English (B2)  
+🔹 **Languages:** Russian, English, Spanish  
 🔹 **Interests:** Web Programming, Backend Development
 
 **🎓 B.Sc. in Software Development (Russian Technological University)**  
